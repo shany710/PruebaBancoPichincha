@@ -3,12 +3,8 @@ a
 1src/main/java/com/saucedemo/models/LoginUser.java,5\f\5fc7db89cc759a38dac1ff4140ff38550af2eab7
 g
 7src/main/java/com/saucedemo/userinterfaces/LoginUI.java,f\c\fcecfabba10380e7eab189e0a4dc3b0dcedb18c8
-?
-settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 \
 ,src/main/java/com/saucedemo/tasks/Login.java,3\0\30ed24e60c9ceca28952a121a8fa4671e1bf3b05
-C
-serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
 p
 @src/main/java/com/saucedemo/userinterfaces/ListaProductosUI.java,0\8\08ba1d019419a8a63c2c6c9dce8170170a2c8c9f
 r
@@ -17,3 +13,7 @@ a
 1src/main/java/com/saucedemo/utils/Constantes.java,f\0\f02567408cbf323c0ae4c30b316be5b4ef28aa42
 k
 ;src/main/java/com/saucedemo/tasks/SeleccionarProductos.java,f\b\fb0a1921706aeb96205c192e4e18c4a709d8646e
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+h
+8src/main/java/com/saucedemo/models/CarritoDeCompras.java,c\d\cd31da935ecdd2fd93e5056ff574f11f58f16981

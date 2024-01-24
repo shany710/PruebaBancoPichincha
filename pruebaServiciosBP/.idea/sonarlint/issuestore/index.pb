@@ -49,3 +49,13 @@ b
 2src/main/java/com/petstore/tasks/CrearUsuario.java,d\b\dbc3730b097c4635908fdf14ab3d884fa334d815
 z
 Jsrc/test/java/com/petstore/stepdefinitions/CrearUsuarioStepDefinition.java,4\9\49804f34c0afff6df33512f135770a6f8a457fcb
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+;
+gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35

@@ -1,8 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Actualizar usuario","Actualizar información del usuario exitosamente","SUCCESS","2024-01-23T10:14:20.3669183-05:00[America/Bogota]","0.0","0.18"
-"Servicio actualizar usuario","Actualizar información del usuario exitosamente","SUCCESS","2024-01-24T14:04:09.1857742-05:00[America/Bogota]","0.0","3.57"
-"Servicio crear mascota exitosamente","Crear mascota","SUCCESS","2024-01-22T18:06:55.4487875-05:00[America/Bogota]","0.0","0.26"
-"Servicio crear usuario exitosamente","Crear usuario","SUCCESS","2024-01-22T21:42:24.9711043-05:00[America/Bogota]","0.0","0.25"
-"Servicio crear usuario exitosamente","Crear usuario exitosamente","SUCCESS","2024-01-23T11:47:30.975827-05:00[America/Bogota]","0.0","0.21"
-"Servicio crear usuario","Crear usuario exitosamente","SUCCESS","2024-01-24T14:03:15.3866579-05:00[America/Bogota]","0.0","0.28"
-"Servicio eliminar usuario","Eliminar usuario exitosamente","SUCCESS","2024-01-24T14:04:51.6537918-05:00[America/Bogota]","0.0","3.18"

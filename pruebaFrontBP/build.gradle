@@ -1,26 +1,14 @@
-buildscript {
-    repositories {
-        mavenCentral()
-
-    }
-    dependencies {
-        classpath "net.serenity-bdd:serenity-gradle-plugin:3.2.5"
-    }
-}
-
 plugins {
     id 'java'
     id 'idea'
-    id "net.serenity-bdd.serenity-gradle-plugin" version "3.2.5"
+    id "net.serenity-bdd.serenity-gradle-plugin" version "4.0.14"
     id "io.freefair.lombok" version "6.4.2"
 }
-
-group 'co.com.iris.certification'
-version '1.0'
-
 repositories {
     mavenCentral()
 }
+
+version '1.0'
 compileJava.options.encoding = "UTF-8"
 compileTestJava.options.encoding = "UTF-8"
 dependencies {
