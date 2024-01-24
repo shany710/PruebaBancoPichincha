@@ -1,4 +1,4 @@
-Feature: Proceso de compra
+Feature: Proceso de compra en saucedemo
 
   Scenario Outline: realizar una compra de forma exitosa
     Given el usuario se autentica en la aplicación

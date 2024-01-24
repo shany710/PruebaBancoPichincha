@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/com.intuit.karate/karate-core
+    implementation group: 'com.intuit.karate', name: 'karate-core', version: '1.4.1'
+
+    // https://mvnrepository.com/artifact/com.intuit.karate/karate-junit5
+    testImplementation group: 'com.intuit.karate', name: 'karate-junit5', version: '1.4.1'
+
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}

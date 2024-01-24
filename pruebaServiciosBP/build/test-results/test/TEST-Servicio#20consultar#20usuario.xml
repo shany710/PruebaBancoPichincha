@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Servicio consultar usuario" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-01-24T19:05:43" hostname="PSOFKA01047" time="5.087">
+  <properties/>
+  <testcase name="Consultar usuario exitosamente" classname="Servicio consultar usuario" time="5.087">
+    <failure message="java.lang.AssertionError: 1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:38)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:32)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:397)
+	at com.petstore.stepdefinitions.ConsultarUsuarioStepDefinition.seObtieneInformacionDelUsuarioConsultado(ConsultarUsuarioStepDefinition.java:26)
+	at ✽.se obtiene información del usuario consultado(file:///C:/Users/sharon.rojas/Documents/PRUEBA%20BP/pruebaServiciosBP/src/test/resources/features/ConsultarUsuario.feature:8)
+</failure>
+  </testcase>
+  <system-out><![CDATA[Request method:	GET
+Request URI:	https://petstore.swagger.io/v2/user/Stephany78
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+Date: Wed, 24 Jan 2024 18:59:41 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 1,
+    "type": "error",
+    "message": "User not found"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

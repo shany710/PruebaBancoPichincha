@@ -1,0 +1,30 @@
+[
+  { "id": 1,
+    "username": "sharon123",
+    "firstname": "sharon",
+    "lastname": "rojas",
+    "email": "rojas.00@gmail.com",
+    "password": "sharin",
+    "phone": "1232132321",
+    "userStatus": 1
+  },
+  { "id": 3,
+    "username": "sharon77",
+    "firstname": "sharon",
+    "lastname": "rojas",
+    "email": "rojas77@gmail.com",
+    "password": "sharon77",
+    "phone": "3146678999",
+    "userStatus": 1
+  },
+  { "id": 2,
+    "username": "rojas123",
+    "firstname": "rojas",
+    "lastname": "sharito",
+    "email": "sharito.123@gmail.com",
+    "password": "sharin_pinguin",
+    "phone": "23234234",
+    "userStatus": 1
+  }
+
+]

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Servicio consultar usuario","Consultar usuario exitosamente","FAILURE","2024-01-24T14:05:43.3965647-05:00[America/Bogota]","0.0","0.19"
+"Servicio leer archivo usuario","leer información del usuario exitosamente desde csv","ERROR","2024-01-23T15:58:38.1275555-05:00[America/Bogota]","0.0","0.3"
