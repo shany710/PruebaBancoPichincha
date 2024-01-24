@@ -4,7 +4,7 @@
     "firstname": "sharon",
     "lastname": "rojas",
     "email": "rojas.00@gmail.com",
-    "password": "sharin",
+    "password": "sharon012",
     "phone": "1232132321",
     "userStatus": 1
   },
@@ -20,8 +20,8 @@
   { "id": 2,
     "username": "rojas123",
     "firstname": "rojas",
-    "lastname": "sharito",
-    "email": "sharito.123@gmail.com",
+    "lastname": "gonzales",
+    "email": "sharon.123@gmail.com",
     "password": "sharon990",
     "phone": "23234234",
     "userStatus": 1
